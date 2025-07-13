@@ -19,9 +19,7 @@ Thank you for visiting my profile! I am a finance professional with a passion fo
 
 ### ⚒️ Languages-Frameworks-Tools ⚒️
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,ruby,rails,js,py,nodejs,express,html,css,mysql, vscode, github" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=c,ruby,rails,js,py,nodejs,express,html,css, bootstrap, mysql, django, vscode, github)](https://skillicons.dev)
 
 </div>
 
